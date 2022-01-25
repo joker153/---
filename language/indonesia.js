@@ -557,39 +557,39 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 exports.rules = (prefix) => {
     return `
-*── 「 RULES AND FAQ 」 ──*
+*── RULES AND FAQ ──*
 
-1. Jangan spam bot. 🙅
-Sanksi: *❎ WARN/SOFT BLOCK*
+1. Don't spam bots. ️
+Sanctions: *❎ WARN/SOFT BLOCK*
 
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
+2. Don't call bots. ️
+Sanctions: *❎ SOFT BLOCK*
 
-3. Jangan mengeksploitasi bot.😖
-Sanksi: *PERMANENT BLOCK*
+3. Don't exploit bots.😖
+Sanctions: *PERMANENT BLOCK*
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
+️ Bot not or slow to respond ?
+️ May be affected by network, signal, banned by Whatsapp and some random. Keep obeying the rules‼️
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
+️ Where can I get the script from this bot?
+️ This script is still private and has never been traded, be wise in knowing fraudsters.
 
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+️ Can I add to the group?
+️ The bot is temporarily in free to add status.
 
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
+️ What's the prefix?
+️ This bot uses multi prefix. That means you can use the prefix #, . , and other reasonable prefixes.
 
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
+️ Sis, why is the chat owner not responding?
+️ Owner only responds to questions about bots and error problems, not for acquaintances or begging for scripts.
 
 
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
+If you understand the rules, please type *allmenu* to get started!
 
-⚠️ Segala kebijakan dan ketentuan 𝕬𝖒𝖆𝖑𝖘𝖊𝖗 bot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+️ All Alphabot policies and conditions are held by the owner and all policy changes, at any time the owner has the right to revoke, block users (*﹏*)
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 𝕬𝖒𝖆𝖑𝖘𝖊𝖗 bot
-😖🙏
+Thank you very much! For you, friendly users and some people who also helped in the Alphabot creation project
+🙏
 `
 }
 exports.welcome = () =>{
